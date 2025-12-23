@@ -11,11 +11,23 @@ consistently to build real, practical software projects.
 - Strengthening my Git & GitHub workflow
 - Learning how to design simple, useful software solutions
 
-## 🛠 Skills (growing)
+## 🧰 Tech Stack (learning & using)
+As part of HyperionDev’s Software Engineering bootcamp, I’m developing skills in:
+
+**Core / Backend**
 - Python
+- SQL
 - Git & GitHub
+- Core computer science fundamentals
+
+**Web & Full-Stack (progressively learning)**
+- HTML, CSS, JavaScript
+- Flask (Python web framework)
+- Node.js (introductory exposure)
+
+**Tooling & Practices (exposure through projects)**
 - Command Line (Windows / PowerShell)
-- Problem-solving & debugging
+- Basic project structuring and version control workflows
 
 ## 📌 Projects
 - **Git Task** – Demonstrates core Git concepts such as initialization, staging,
