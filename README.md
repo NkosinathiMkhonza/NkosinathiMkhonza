@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nkosinathi Mkhonza</h1>
-<h3 align="center"> Software Engineering Ace from Capetown, but I really live in .py</h3>
+<h3 align="center"> Fuel Transfer Engineer turned Software Developer </h3>
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
