@@ -1,6 +1,27 @@
 <h1 align="center">Hi 👋, I'm Nkosinathi Mkhonza</h1>
 <h3 align="center"> Fuel Transfer Engineer turned Software Developer That builds Real Projects CONSISTENTLY! </h3>
 
+<p>
+  ## 🚀 What I'm working on
+- Learning software development through structured projects
+- Building small but real Web applications
+- Improving my Git & GitHub workflow
+</p>
+
+<p>
+  
+## 🛠 Skills (growing)
+- Python
+- Git & GitHub
+- Command Line
+- Problem-solving & debugging
+</p>
+
+<p>
+  ## 📌 Background
+I'm currently working outside of tech while actively transitioning into software
+development through consistent learning and hands-on practice.
+</p>
 <h3 align="left">Connect with me: </h3>
 <p align="left">
   facebook: Nkosinathi Mkhonza
