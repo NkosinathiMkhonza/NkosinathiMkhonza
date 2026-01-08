@@ -40,5 +40,5 @@ As part of HyperionDev’s Software Engineering bootcamp, I’m developing skill
 My goal is to transition into a junior software development role by consistently
 building real projects and improving my technical skills.
 
-## 📫 Connect with me
+## 📫 how to Connect with me
 - GitHub: https://github.com/NkosinathiMkhonza
