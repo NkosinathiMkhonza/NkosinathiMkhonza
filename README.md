@@ -1,6 +1,6 @@
 # Hi, I'm Nkosinathi 👋
 
-I'm a junior software developer, focused on building strong foundations
+I'm software developer, focused on building strong foundations
 in programming, Git, and problem-solving through hands-on projects.
 
 I’m currently transitioning into tech from a non-technical role and working
