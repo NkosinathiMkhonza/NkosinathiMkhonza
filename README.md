@@ -1,6 +1,6 @@
 # Hi, I'm Nkosinathi 👋
 
-I'm a junior software developer in training, focused on building strong foundations
+I'm a junior software developer, focused on building strong foundations
 in programming, Git, and problem-solving through hands-on projects.
 
 I’m currently transitioning into tech from a non-technical role and working
@@ -37,8 +37,10 @@ As part of HyperionDev’s Software Engineering bootcamp, I’m developing skill
 (More projects coming soon as I continue building.)
 
 ## 🎯 Goal
-My goal is to transition into a junior software development role by consistently
+My goal is to transition into a software development role by consistently
 building real projects and improving my technical skills.
 
 ## 📫 how to Connect with me
 - GitHub: https://github.com/NkosinathiMkhonza
+- LinkedIn: https://www.linkedin.com/in/nkosinathi-mkhonza-3bb1a72a2/
+- X: https://x.com/NkosiMkhonza
