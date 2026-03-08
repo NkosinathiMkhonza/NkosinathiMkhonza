@@ -3,8 +3,7 @@
 I'm software developer, focused on building strong foundations
 in programming, Git, and problem-solving through hands-on projects.
 
-I’m currently transitioning into tech from a non-technical role and working
-consistently to build real, practical software projects.
+I’m currently working consistently to build real, practical software projects.
 
 ## 🚀 What I'm working on
 - Building Python-based applications from scratch
