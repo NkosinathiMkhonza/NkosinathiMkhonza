@@ -18,6 +18,8 @@ As part of HyperionDev’s Software Engineering bootcamp, I’m developing skill
 - SQL
 - Git & GitHub
 - Core computer science fundamentals
+- Docker
+- JavaScript
 
 **Web & Full-Stack (progressively learning)**
 - HTML, CSS, JavaScript
