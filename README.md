@@ -19,21 +19,20 @@ As part of HyperionDev’s Software Engineering bootcamp, I’m developing skill
 - Git & GitHub
 - Core computer science fundamentals
 - Docker
-- JavaScript
+- Vanila JavaScript
 
 **Web & Full-Stack (progressively learning)**
 - HTML, CSS, JavaScript
 - Flask (Python web framework)
 - Node.js (introductory exposure)
+- Django
 
 **Tooling & Practices (exposure through projects)**
 - Command Line (Windows / PowerShell)
-- Basic project structuring and version control workflows
+- project structuring and version control workflows
 
 ## 📌 Projects
-- **Git Task** – Demonstrates core Git concepts such as initialization, staging,
-  committing, and pushing to GitHub  
-- **Example Repo** – Contains practice code and a structured README to document learning progress  
+- On the way guys sorry
 
 (More projects coming soon as I continue building.)
 
