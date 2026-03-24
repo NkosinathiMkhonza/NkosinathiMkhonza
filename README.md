@@ -2,7 +2,7 @@
 
 **Software Engineer · Python & Django Developer · Cape Town, ZA**
 
-> Petrol attendant by day. Software engineer by night. Now certified.
+> Petrol attendant by day. Software engineer by night. Now certified!.
 
 I'm a self-taught developer who completed the **HyperionDev Software Engineering Bootcamp** (partnered with Stellenbosch University). I build backend applications with Python and Django, and I'm actively working toward a full stack or QA engineering role.
 
