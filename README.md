@@ -87,4 +87,4 @@ Completed: 18 March 2026 · Certificate ID: NM25060018786-7649
 
 ---
 
-*"Where documentation, Stack Overflow, are the syllabus."*
+*"Where documentation, Stack Overflow, are the syllabus."* hi
