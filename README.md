@@ -1,73 +1,42 @@
-# Hi, I'm Nkosinathi 👋
+# Nkosinathi Mkhonza
 
-**Software Engineer · Python & Django Developer · Cape Town, ZA**
+**I build and ship full stack applications.**
 
-> Petrol attendant by day. Software engineer by night. Now certified!.
-
-I'm a self-taught developer who completed the **HyperionDev Software Engineering Bootcamp** (partnered with Stellenbosch University). I build backend applications with Python and Django, and I'm actively working toward a full stack or QA engineering role.
+No waiting for the perfect moment. No excuses. Just code, commit, deploy.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I've Shipped
 
-- 🔧 Building and deploying REST APIs with Django REST Framework
-- 🧪 Learning Playwright for automated QA testing
-- 📚 Strengthening my CS fundamentals and open source reading habits
+### [django-rest-api](https://github.com/NkosinathiMkhonza/django-rest-api) · [Live →](https://django-rest-api-y3z8.onrender.com)
+REST API built with Django REST Framework. Full CRUD, PostgreSQL database, custom validation, browsable API interface. Deployed on Render.
+`Python` `Django` `DRF` `PostgreSQL`
 
----
+### [task-manager-cli](https://github.com/NkosinathiMkhonza/task-manager-cli) · [Live →](https://task-manager-cli-26pi.onrender.com)
+Started as a Python CLI tool. Extended it with a Flask REST API and built a terminal-style web interface on top. Deployed on Render.
+`Python` `SQLite` `Flask` `REST API`
 
-## 🛠️ Tech Stack
+### [Portfolio](https://github.com/NkosinathiMkhonza/Portfolio) · [Live →](https://nkosinathimkhonza.github.io/Portfolio)
+Documentation-style portfolio. Bootstrap 2-8-2 grid, live GitHub commit feed via GitHub API, terminal contact form with Formspree.
+`HTML` `CSS` `JavaScript` `Bootstrap` `GitHub API`
 
-**Backend**
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3fb950)
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat&logo=django&logoColor=3fb950)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat&logo=flask&logoColor=3fb950)
-![Django REST Framework](https://img.shields.io/badge/DRF-0d1117?style=flat&logo=django&logoColor=3fb950)
-
-**Data**
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat&logo=sqlite&logoColor=58a6ff)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat&logo=postgresql&logoColor=58a6ff)
-
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat&logo=html5&logoColor=58a6ff)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat&logo=css3&logoColor=58a6ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=e3b341)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=flat&logo=bootstrap&logoColor=58a6ff)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=f0883e)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat&logo=docker&logoColor=58a6ff)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat&logo=github&logoColor=c9d1d9)
+### [grind-tracker](https://github.com/NkosinathiMkhonza/grind-tracker) · In Progress
+Daily coding progress tracker for developers who grind after their day job. Django backend, DRF API, Chart.js dashboard.
+`Python` `Django` `DRF` `Chart.js`
 
 ---
 
-## 📦 Featured Projects
+## 🛠️ Stack
 
-### [task-manager-cli](https://github.com/NkosinathiMkhonza/task-manager-cli)
-A command-line task manager built with Python and SQLite — extended with a Flask REST API and terminal-style web interface.
-
-`Python` `SQLite` `Flask` `REST API` · [Live Demo →](https://task-manager-cli-26pi.onrender.com)
-
----
-
-### [django-rest-api](https://github.com/NkosinathiMkhonza/django-rest-api)
-A REST API built with Django REST Framework featuring CRUD operations, model serialization, and a browsable API interface.
-
-`Python` `Django` `DRF` `SQLite` · [Live Demo →](https://django-rest-api-y2q8.onrender.com/api/v1/projects/)
-
----
-
-### [Portfolio](https://github.com/NkosinathiMkhonza/Portfolio)
-A documentation-style developer portfolio with a Bootstrap 2-8-2 grid, live GitHub commit feed, and terminal-style contact form.
-
-`HTML` `CSS` `JavaScript` `Bootstrap` · [Live Site →](https://nkosinathimkhonza.github.io/Portfolio)
-
----
-
-## 🎓 Credentials
-
-**Software Engineering** — HyperionDev x Stellenbosch University
-Completed: 18 March 2026 · Certificate ID: NM25060018786-7649
+```python
+stack = {
+    "backend":   ["Python", "Django", "Django REST Framework", "Flask"],
+    "database":  ["PostgreSQL", "SQLite", "SQL"],
+    "frontend":  ["HTML5", "CSS3", "JavaScript", "Bootstrap 5"],
+    "tools":     ["Git", "GitHub", "Docker", "Render"],
+    "learning":  ["Pytest", "Playwright", "Test Automation"]
+}
+```
 
 ---
 
@@ -79,12 +48,17 @@ Completed: 18 March 2026 · Certificate ID: NM25060018786-7649
 
 ---
 
-## 📫 Get In Touch
+## 🎓 Background
+
+Certified by HyperionDev · Stellenbosch University — March 2026.
+Coded nights and weekends while working as a petrol attendant by day.
+That's not a backstory. That's a work ethic.
+
+---
+
+## 📫 Let's Talk
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat&logo=github&logoColor=c9d1d9)](https://nkosinathimkhonza.github.io/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/nkosinathi-mkhonza-3bb1a72a2/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=f0883e)](mailto:nkosimkhonza5@gmail.com)
 
----
-
-*"Where documentation, Stack Overflow, are the syllabus."*
