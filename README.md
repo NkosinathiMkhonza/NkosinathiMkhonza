@@ -35,6 +35,7 @@ stack = {
     "frontend":  ["HTML5", "CSS3", "JavaScript", "Bootstrap 5"],
     "tools":     ["Git", "GitHub", "Docker", "Render"],
     "learning":  ["Pytest", "Playwright", "Test Automation"]
+    "System Design" : ["as a concept"]
 }
 ```
 
