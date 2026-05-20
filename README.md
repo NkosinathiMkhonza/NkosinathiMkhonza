@@ -31,7 +31,7 @@ Daily coding progress tracker for developers who grind after their day job. Djan
 ```python
 stack = {
     "backend":   ["Python", "Django", "Django REST Framework", "Flask"],
-    "database":  ["PostgreSQL", "SQLite", "SQL"],
+    "database":  ["PostgreSQL", "SQLite", "SQL", ""],
     "frontend":  ["HTML5", "CSS3", "JavaScript", "Bootstrap 5"],
     "tools":     ["Git", "GitHub", "Docker", "Render"],
     "learning":  ["Pytest", "Playwright", "Test Automation"]
